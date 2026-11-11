@@ -1,8 +1,8 @@
 {
-  "enabled": false,
-  "id": "2026-11-10",
+  "enabled": true,
+  "id": "2026-11-11",
   "icon": "📣",
-  "de": "Hier steht dein Text auf Deutsch (max. 300 Zeichen).",
-  "en": "Your text goes here in English (max. 300 characters).",
+  "de": "Habt einen entspannten Tag und viel Spaß beim Testen. Feedback ist gern gesehen!",
+  "en": "Have a nice day and have fun testing. Im waiting for your feedback! ",
   "until": ""
 }
